@@ -1,6 +1,6 @@
 Web developer and programmer.
 
-Current languages: PHP, JavaScript, HTML, CSS, Java
+Current languages: PHP, JavaScript, HTML, CSS, Python
 
 Specilizing in owning more courses than I'll ever take.
 
